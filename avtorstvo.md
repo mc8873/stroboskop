@@ -1,5 +1,5 @@
-Študent z vpisno številko _63140027_ potrjujem, da sem __edini avtor__ oddane domaèe naloge.
+ï¿½tudent z vpisno ï¿½tevilko _63140027_ potrjujem, da sem __edini avtor__ oddane domaï¿½e naloge.
 
-[Glavna](https://rawgit.com/{študent}/stroboskop/master/stroboskop.html)
-[Izgled](https://rawgit.com/{študent}/stroboskop/izgled/stroboskop.html)
-[Dinamika](https://rawgit.com/{študent}/stroboskop/dinamika/stroboskop.html)
+[Glavna](https://rawgit.com/mc8873/stroboskop/master/stroboskop.html)
+[Izgled](https://rawgit.com/mc8873/stroboskop/izgled/stroboskop.html)
+[Dinamika](https://rawgit.com/mc8873/stroboskop/dinamika/stroboskop.html)
